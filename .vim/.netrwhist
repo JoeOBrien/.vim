@@ -1,8 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/Users/joeobrien/code/love-wealth/public/modules/portfolio-projection/controllers'
 let g:netrw_dirhist_2='/Users/joeobrien/code/love-wealth'
 let g:netrw_dirhist_3='/Users/joeobrien/code/love-wealth/public/modules/portfolio-reporting'
 let g:netrw_dirhist_4='/Users/joeobrien/code/love-wealth/public/modules/portfolio-reporting/controllers'
 let g:netrw_dirhist_5='/Users/joeobrien/code/love-wealth/app'
 let g:netrw_dirhist_6='/Users/joeobrien/code/love-wealth/app/generic_methods'
+let g:netrw_dirhist_7='/Users/joeobrien'
+let g:netrw_dirhist_8='/Users/joeobrien/.local'
+let g:netrw_dirhist_9='/Users/joeobrien'

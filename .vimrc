@@ -10,7 +10,7 @@ set wildmenu
 set ignorecase
 set hlsearch
 set showmatch
-
+let g:netrw_liststyle=3
 
 set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
