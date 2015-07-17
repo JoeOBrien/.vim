@@ -14,6 +14,8 @@ let g:netrw_liststyle=3
 let g:netrw_banner=0
 set smartindent
 :nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
+cnoreabbrev tn tabnext
+cnoreabbrev tp tabprevious
 
 "Colourscheme stuff"
 syntax enable
@@ -33,5 +35,5 @@ filetype plugin indent on
 Plugin 'christoomey/vim-tmux-navigator'
 Plugin 'editorconfig/editorconfig-vim'
 Plugin 'altercation/vim-colors-solarized'
-
+Plugin 'bling/vim-airline'
 
